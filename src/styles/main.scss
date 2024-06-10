@@ -1,3 +1,6 @@
-body {
-  margin: 0;
-}
+@import '/src/styles/utils/variables';
+@import '/src/styles/blocks/game-header';
+@import '/src/styles/blocks/page';
+@import '/src/styles/blocks/message-container';
+@import '/src/styles/blocks/game-board';
+@import '/src/styles/blocks/tile.css';
